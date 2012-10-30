@@ -1,0 +1,17 @@
+[Wed Oct 17 05:58:22 2012] [info] Listening at "http://*:3000".
+[Wed Oct 17 05:58:27 2012] [debug] Your secret passphrase needs to be changed!!!
+[Wed Oct 17 05:58:40 2012] [debug] POST /convert (Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Wed Oct 17 05:58:40 2012] [error] Can't load the cascade file at script/../lib/Miyagawanize3/Web/Root.pm line 8.
+Compilation failed in require at (eval 242) line 1.
+
+[Wed Oct 17 05:58:40 2012] [debug] Template "exception.development.html.ep" not found.
+[Wed Oct 17 05:58:40 2012] [debug] Template "exception.html.ep" not found.
+[Wed Oct 17 05:58:40 2012] [debug] Rendering inline template.
+[Wed Oct 17 05:58:40 2012] [debug] Rendering inline template.
+[Wed Oct 17 05:58:40 2012] [debug] 500 Internal Server Error (0.305525s, 3.273/s).
+[Wed Oct 17 05:58:40 2012] [debug] GET /%3C!DOCTYPE%20html%3E%3Chtml%3E%20%20%3Chead%3E%20%20%20%20%3Ctitle%3EServer%20error%3C/title%3E%20%20%20%20%3Cmeta%20http-equiv=%22Pragma%22%20content=%22no-cache%22%3E%20%20%20%20%3Cmeta%20http-equiv=%22Expires%22%20content=%22-1%22%3E%20%20%20%20%3Cscript%20src=%22/js/jquery.js%22%20type=%22text/javascript%22%3E%3C/script%3E%20%20%20%20%3Clink%20href=%22/css/prettify-mojo.css%22%20media=%22screen%22%20rel=%22stylesheet%22%20type=%22text/css%22%20/%3E%20%20%20%20%3Cscript%20src=%22/js/prettify.js%22%20type=%22text/javascript%22%3E%3C/script%3E%20%20%20%20%3Cstyle%20type=%22text/css%22%3E/*%3C!%5BCDATA%5B*/%20%20%20%20%20%20a%20img%20%7B%20border:%200%20%7D%20%20%20%20%20%20body%20%7B%20%20%20%20%20%20%20%20background-color:%20 (Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4).
+[Wed Oct 17 05:58:40 2012] [debug] Template "not_found.development.html.ep" not found.
+[Wed Oct 17 05:58:40 2012] [debug] Template "not_found.html.ep" not found.
+[Wed Oct 17 05:58:40 2012] [debug] Rendering inline template.
+[Wed Oct 17 05:58:40 2012] [debug] Rendering inline template.
+[Wed Oct 17 05:58:40 2012] [debug] 404 Not Found (0.027221s, 36.736/s).
